@@ -1,4 +1,4 @@
-package xyz;
+package shubhamsingh12;
 
 public class Array {
 	public static void main(String[] args) {
